@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|c:\\users\\student\\source\\repos\\oopassignment1\\exercise3\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|c:\\users\\student\\source\\repos\\oopassignment1\\exercise3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|c:\\users\\student\\source\\repos\\oopassignment1\\exercise3\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|c:\\users\\student\\source\\repos\\oopassignment1\\exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|c:\\users\\student\\source\\repos\\oopassignment1\\exercise3\\enginevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\enginevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|c:\\users\\student\\source\\repos\\oopassignment1\\exercise3\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4990B6F1-66C2-446D-B317-F6B4DB5096ED}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EngineVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\EngineVehicle.cs",
+              "RelativeDocumentMoniker": "Exercise3\\EngineVehicle.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\EngineVehicle.cs",
+              "RelativeToolTip": "Exercise3\\EngineVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:19:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorbike.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Motorbike.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Motorbike.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Motorbike.cs",
+              "RelativeToolTip": "Exercise3\\Motorbike.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:16:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDriveable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\IDriveable.cs",
+              "RelativeDocumentMoniker": "Exercise3\\IDriveable.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\IDriveable.cs",
+              "RelativeToolTip": "Exercise3\\IDriveable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:16:20.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Car.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Car.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Car.cs",
+              "RelativeToolTip": "Exercise3\\Car.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwDcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:16:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Bus.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Bus.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Bus.cs",
+              "RelativeToolTip": "Exercise3\\Bus.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA8wDcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:16:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\OOPAssignment1\\Exercise3\\Program.cs",
+              "RelativeToolTip": "Exercise3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:12:16.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
